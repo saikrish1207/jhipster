@@ -1,1 +1,4 @@
 # this is READ only file
+#this project jhipster repository contains all the Microservices architecture design 
+#services which run under jhipster tool.
+#We create an order service/invoice service/customer service/ registry/ inventory/ gateway-api services
