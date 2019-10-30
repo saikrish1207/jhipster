@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.microservice.order.cmd"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "microservice",
+    "baseName": "ordercmd",
+    "packageName": "com.microservice.order.cmd",
+    "packageFolder": "com/microservice/order/cmd",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGY2N2ZhYWZjMjIwZDJjOTM3ZTZiNTVmYjA2OGZmYWFjYTVjOTg0ZGRkNTQwMWY2ZTgwMDRkOTMyMDY2NzllMTczZjdiMDBmMGI4NzMzMzJhZjBmNjZhMTdmZTMyYmJmYTIwMGQ4NzY5YzhjZDBhOTk0ODRjZmMwMTA5NWE1NmM=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
