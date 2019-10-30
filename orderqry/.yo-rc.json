@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.order.qry"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "microservice",
+    "baseName": "orderqry",
+    "packageName": "com.order.qry",
+    "packageFolder": "com/order/qry",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmU5OTVjNDQzMjNmYjdkNTE3ZmY5YTcwY2MzMDI0NzIyMTQ4NWNmMjRmYWRlNjI1NzIxYjYyOTc4NDk4ZTI0NjRjYmM3OTlhYmRlMjRlNTJhYzk1ZDhhODVkM2VjN2QzZjQ0NmU3ZmQzNWM5NjZiZjVkZDkwM2M3NGI4YmRmNGE=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
